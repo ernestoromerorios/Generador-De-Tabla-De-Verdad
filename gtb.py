@@ -22,7 +22,7 @@ def tabla(*args):
 
 		if len(variables) > 10:
 
-			messagebox.showwarning(message="¡Muchas Variables!\nPor favor ingrese sólo hasta cuatro variables.",title="Advertencia")
+			messagebox.showwarning(message="¡Muchas Variables!\nPor favor ingrese sólo hasta diez variables.",title="Advertencia")
 		
 		else:
 
