@@ -1,4 +1,4 @@
-# Generador De Tablas De Verdad
+# Generador De Tabla De Verdad
 **Las siguientes dependencias son requeridas:**
 * Numpy.
 * Tkinter.
